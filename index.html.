@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>CasinoRank — Demo</title>
+<link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header class="hero">
+    <h1>Top Online Casinos by Country</h1>
+    <p>Discover trusted online casinos with the best bonuses, licenses, and ratings for your region.</p>
+    <div class="filters">
+      <button data-geo="ALL" class="active">🌐 All Countries</button>
+      <button data-geo="BR">🇧🇷 Brazil</button>
+      <button data-geo="IN">🇮🇳 India</button>
+      <button data-geo="CA">🇨🇦 Canada</button>
+      <button data-geo="MX">🇲🇽 Mexico</button>
+    </div>
+  </header>
+
+  <main id="main">
+    <div id="casinoList" class="grid"></div>
+    <div id="empty" class="empty">No casinos found for the selected country.</div>
+  </main>
+
+  <footer class="footer">
+    <small>18+. For informational purposes only. We do not provide gambling services.</small>
+  </footer>
+
+<script src="js/app.js"></script>
+</body>
+</html>
