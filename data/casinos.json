@@ -1,0 +1,8 @@
+[
+  {"id":1,"name":"LuckySpin","logo":"https://example.com/logos/lucky.png","geo":["BR","CA"],"bonus":"100% up to $300 + 50 FS","wager":"35x","license":"Curacao","rating":9.1,"rationale":"Modern interface, fast withdrawals and friendly support.","aff_link":"#"},
+  {"id":2,"name":"SlotRiver","logo":"https://example.com/logos/slotriver.png","geo":["IN","BR"],"bonus":"200 free spins + 50% cashback","wager":"40x","license":"Curacao","rating":8.7,"rationale":"Wide slot selection, good RTP range.","aff_link":"#"},
+  {"id":3,"name":"SpinPalace","logo":"https://example.com/logos/spinpalace.png","geo":["CA","MX"],"bonus":"150% up to $500","wager":"30x","license":"MGA","rating":8.9,"rationale":"Licensed with a strong VIP program.","aff_link":"#"},
+  {"id":4,"name":"BetNova","logo":"https://example.com/logos/betnova.png","geo":["BR","IN"],"bonus":"50% + 25 FS","wager":"45x","license":"Curacao","rating":8.2,"rationale":"Fast mobile experience and average payouts.","aff_link":"#"},
+  {"id":5,"name":"GoldReels","logo":"https://example.com/logos/goldreels.png","geo":["MX","BR"],"bonus":"No deposit 20 FS","wager":"50x","license":"Curacao","rating":7.8,"rationale":"Good promo cadence but slower KYC.","aff_link":"#"},
+  {"id":6,"name":"RapidSlots","logo":"https://example.com/logos/rapid.png","geo":["IN","CA"],"bonus":"100% up to $200","wager":"35x","license":"Curacao","rating":8.4,"rationale":"Instant payouts for e-wallets.","aff_link":"#"}
+]
